@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+*.jsonl
+snapshots/
+.DS_Store
